@@ -1,0 +1,74 @@
+{
+  "DBPoint": 0,
+  "DBList": [
+    {
+      "DBDriver": "com.microsoft.sqlserver.jdbc.SQLServerDriver",
+      "DBConnectionURL": "jdbc:sqlserver://localhost:1433;databaseName=T_ZD_work",
+      "DBUserName": "sa",
+      "DBUserPass": "7777"
+    },
+    {
+      "DBDriver": "com.microsoft.sqlserver.jdbc.SQLServerDriver",
+      "DBConnectionURL": "jdbc:sqlserver://localhost:1433;databaseName=T_ZD_work",
+      "DBUserName": "sa",
+      "DBUserPass": "7777"
+    },
+    {
+      "DBDriver": "com.microsoft.sqlserver.jdbc.SQLServerDriver",
+      "DBConnectionURL": "jdbc:sqlserver://localhost:1433;databaseName=T_ZD_work",
+      "DBUserName": "sa",
+      "DBUserPass": "7777"
+    },
+    {
+      "DBDriver": "com.microsoft.sqlserver.jdbc.SQLServerDriver",
+      "DBConnectionURL": "jdbc:sqlserver://localhost:1433;databaseName=T_ZD_work",
+      "DBUserName": "sa",
+      "DBUserPass": "7777"
+    },
+    {
+      "DBDriver": "com.microsoft.sqlserver.jdbc.SQLServerDriver",
+      "DBConnectionURL": "jdbc:sqlserver://localhost:1433;databaseName=T_ZD_work",
+      "DBUserName": "sa",
+      "DBUserPass": "7777"
+    },
+    {
+      "DBDriver": "com.microsoft.sqlserver.jdbc.SQLServerDriver",
+      "DBConnectionURL": "jdbc:sqlserver://localhost:1433;databaseName=T_ZD_work",
+      "DBUserName": "sa",
+      "DBUserPass": "7777"
+    }
+  ],
+  "EntityPackage": "Entity.",
+  "EntityList": [
+    {
+      "EntityName": "Bean_T_WangYiBrand",
+      "EntityPrimaryKey": "C_ID",
+      "TableName": "T_WangYi_Brand"
+    },
+    {
+      "EntityName": "Bean_T_WangYiFactory",
+      "EntityPrimaryKey": "C_ID",
+      "TableName": "T_WangYi_Factory"
+    },
+    {
+      "EntityName": "Bean_T_WangYiModel",
+      "EntityPrimaryKey": "C_ID",
+      "TableName": "T_WangYi_Model"
+    },
+    {
+      "EntityName": "Bean_T_WangYiVersion",
+      "EntityPrimaryKey": "C_ID",
+      "TableName": "T_WangYi_Version"
+    },
+    {
+      "EntityName": "Bean_T_WangYiDate",
+      "EntityPrimaryKey": "C_ID",
+      "TableName": "T_WangYi_Date"
+    },
+    {
+      "EntityName": "Bean_T_WangYiConfig",
+      "EntityPrimaryKey": "C_ID",
+      "TableName": "T_WangYi_Config"
+    }
+  ]
+}
